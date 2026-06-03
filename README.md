@@ -72,3 +72,5 @@ Tous optionnels. Priorité au RDM custom s'il est fourni.
 - LÉR — Langage Écriture-Réalité ([repo source](https://github.com/Othman-Benbrahim/Langage-d-ecriture-realite))
 - Hacking Narratif ([repo source](https://github.com/Othman-Benbrahim/Hacking-Narratif-Agent-Hybride-de-Transformation-Symbolique))
 - Partie de l'écosystème [IRIS∞](https://github.com/Othman-Benbrahim)
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Othman-Benbrahim/ler-narratif)
